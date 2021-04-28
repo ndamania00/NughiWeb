@@ -1,4 +1,4 @@
 node_modules
 node_modules
-nughiwebscript.sql
-server/db.js
+/nughiwebscript.sql
+/server/db.js
